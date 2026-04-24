@@ -3,7 +3,7 @@
 ## Project Overview
 The Calorie Counter System is a Computer Vision and Deep Learning-based application designed to automatically detect food items from images and estimate their calorie content. This project aims to simplify dietary tracking by eliminating manual calorie calculation.
 
----
+
 
 ## Features
 - Upload food images for analysis
@@ -12,7 +12,7 @@ The Calorie Counter System is a Computer Vision and Deep Learning-based applicat
 - Fast and efficient predictions using MobileNetV2
 - User-friendly and easy-to-use interface
 
----
+
 
 ## Technologies Used
 - Python
@@ -35,24 +35,23 @@ calorie-counter/
 │── README.md
 ```
 
----
+
 
 ## Installation & Setup
 
 1. Clone the repository:
 ```
 git clone https://github.com/your-username/calorie-counter.git
-```
+
 
 2. Navigate to the project folder:
 ```
 cd calorie-counter
-```
+
 
 3. Install dependencies:
-```
-pip install -r requirements.txt
-```
+
+
 
 4. Run the project:
 ```
